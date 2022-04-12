@@ -60,6 +60,7 @@ export function addMovieToList(movie) {
           const url=`http://www.omdbapi.com/?apikey=3ac0947a&t=${movie}`;
           fetch(url)
     //   .then(response=>console.log(response));
+    .catch((e)=>console.log(e))
     .then(response=>response.json())
     .then(movie=>{
         console.log('movie',movie);

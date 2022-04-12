@@ -51,7 +51,7 @@ Instead of this function we have in-built thunk middleware. this is the code whi
 
 
 const store=createStore(rootReducer,applyMiddleware(logger,thunk));//takes reducer as argument and applyMiddleware(this says redux that we want to use middleware and the middleware is passed as argument to this )
-console.log('store',store);
+// console.log('store',store);
 
 /*
 export const StoreContext =createContext();

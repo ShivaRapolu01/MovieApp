@@ -40,8 +40,6 @@ body {
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   z-index:100;
-
-
 }
 
 .search-result .movie-info{
@@ -147,6 +145,10 @@ body {
 
 .movie-card .left img{
   height:250px;
+}
+.movie-card .plot{
+  text-align: left;
+  padding-left: 20px;
 }
 .movie-card .right{
   position:relative;
