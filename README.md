@@ -2,7 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The App fetches the data from omdb api.The app is blessed with search results too. 
 
-Deployed at https://movie-magic-app.herokuapp.com/
+![image](https://user-images.githubusercontent.com/79957651/162930137-26712264-1789-41f1-9c93-c5ee4fb57a50.png)
+Search functionality
+![image](https://user-images.githubusercontent.com/79957651/162930295-7724fee1-ed99-4db6-aaf3-de19efd0b23e.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
